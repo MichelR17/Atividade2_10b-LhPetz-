@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8BZsagK0aVDoi4KCayGbOiXAE1hQv62tkGD6vAKpnrA=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
